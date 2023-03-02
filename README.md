@@ -1,6 +1,7 @@
 # Web Scraping Practices
-Data Scraping from webites\
-Learning Here: [Bilibili](https://www.bilibili.com/video/BV1d54y1g7db/?p=9&spm_id_from=pageDriver&vd_source=82cc9f8195ff57b14f4f1d470824ef31)
+Data Scraping from webites
+- Learning Here: [Bilibili](https://www.bilibili.com/video/BV1d54y1g7db/?p=9&spm_id_from=pageDriver&vd_source=82cc9f8195ff57b14f4f1d470824ef31)
+- HTML Cheat Sheet: [Link](https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet)
 
 # Learning Content
 ### Getting HTML
