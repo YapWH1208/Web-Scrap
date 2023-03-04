@@ -9,6 +9,8 @@ Data Scraping from webites
 2. [Example 2 (豆瓣电影TOP250)](https://github.com/YapWH1208/Web-Scrap/blob/main/Learn/learn_04.py)
 ### Learn HTML
 1. [HTML Basics](https://github.com/YapWH1208/Web-Scrap/blob/main/Learn/learn_08.html)
+### Learn Regex
+1. [Regex Cheat Sheet](https://github.com/YapWH1208/Web-Scrap/blob/main/Learn/regex.md)
 
 # Success Case
 ### 1. 豆瓣电影TOP250
